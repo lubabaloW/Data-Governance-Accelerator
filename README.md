@@ -121,7 +121,7 @@ Concern themselves with a diverse set of activities to run the day-to-day needs 
 Strategy
 Creating a strategy typically comes down to a core set of activities. It begins with an analysis of the environment followed by some conclusions on what has been gathered. Finally, a plan is developed, driven by some form of guiding principles. These principles may be derived from the nature of the work, the values of the founders, or some other factors.
 
-      
+          
 
 
 
