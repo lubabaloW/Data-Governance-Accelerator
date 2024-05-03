@@ -193,7 +193,15 @@ The success of governing data can be reduced to three essential factors:
 
 
 # CHAPTER 4: TRANSFORMING THROUGH DATA
-whats 
+
+
+
+
+
+
+
+
+
 
 
 
