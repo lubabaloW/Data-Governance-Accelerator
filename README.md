@@ -1,8 +1,8 @@
 # Data-Governance-Accelerator
 
 # CHAPTER 1: DEFINING DATA GOVERNANCE
-Data governance is all about managing data well, but data governance is not restricted to only data management.
--Governance is a manner in which an entity chooses to oversee the control and direction of an area of interest.
+--Data governance is all about managing data well, but data governance is not restricted to only data management.
+--Governance is a manner in which an entity chooses to oversee the control and direction of an area of interest.
 
 Data Governance vs Data Management
 -Data Governance is focused on roles and responsibilities, policies, definitions, metrics and lifestyle of data.
@@ -55,7 +55,8 @@ MATURING THE DATA CULTURE
 -Do something, even if it’s small, to show progress. 
 -Recognize that resistance and frustration are part of the journey.
 
-# CHAPTER 2 
+# CHAPTER 2: Exploring a World Overflowing with Data
+
 DEFINING DATA
 Data is also defined based on its captured format. Specifically, at a high level, it falls into one of the following categories:
 
@@ -64,7 +65,7 @@ Data is also defined based on its captured format. Specifically, at a high level
 --Semi-structured: Data that contains additional information to enable the native format to be searched and analyzed.
 
 
-The differences between Data and Information
+The differences between Data and Information:
 
 Data - Raw
      - Items such as characters, words, pictures, and numbers that have no meaning in 
