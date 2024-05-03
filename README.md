@@ -112,6 +112,7 @@ One way to define and characterize big data is through these five Vs:
 SMART DATA
 Defines big data that's been optimally prepared for use to deliver the highest business value.
 
+
 # CHAPTER 3: DRIVING VALUE THROUGH DATA
 IDENTIFYING THE ROLES OF DATA
 
@@ -121,13 +122,78 @@ Concern themselves with a diverse set of activities to run the day-to-day needs 
 Strategy
 Creating a strategy typically comes down to a core set of activities. It begins with an analysis of the environment followed by some conclusions on what has been gathered. Finally, a plan is developed, driven by some form of guiding principles. These principles may be derived from the nature of the work, the values of the founders, or some other factors.
 
-          
+Decision - Making
+The outcome of decisions based on bad data could range from a minor mistake to job termination right up to the closing of the business.
+
+Measuring
+Data measurements can be quantitative or qualitative. Quantitative data is most often described in numerical terms, whereas qualitative data is descriptive and expressed in terms of language.
+
+Monitoring
+Monitoring is another process that converts data into insight and as such, exists as a mechanism to guide decisions. The role of data in measurement and monitoring often go hand-in-hand.
+
+Insight Management
+Insight management begins with gathering and analyzing data from different sources. In order to determine what data to process, those responsible for insight management must deeply understand the organization’s information needs. 
+
+Reporting
+Reports are typically online or physical presentations of data and information on some aspect of an organization.
+--For example, a written and printed report may show all the sales of a particular product or service during a specific period. 
+--Sometimes a report is given verbally in person or via a live or recorded video.
+
+Other Roles for Data
+Artificial Intelligence(AI)
+Problem - Solving
+Data Reuse
+
+APPROACHING DATA AS AN ASSET
+
+--An asset is something that is owned by a person, an organization, or a government with the expectation that it can bring some economic benefit.
+--An asset can be tangible or intangible. 
+   Tangible assets are physical things such as inventory, machines, and property.
+   An intangible asset is the opposite; it’s a non-physical thing like software, 
+   copyrights, a brand, and goodwill. 
+-- Data is an intangible asset.
+
+After it is processed from its raw form, data has the potential to create enormous economic value for all manner of stakeholders. Here are some examples of the economic value of data:
+
+-Improves operations.
+-Increases existing revenue.
+-Produces new forms of revenue.
+-Builds relationships with customers and other stakeholders.
+-Improves the quality of products and services.
+-Contributes to competitive advantage.
+-Enables innovation.
+-Reduces risk.
+
+DATA ANALYTICS
+The process of examining data in order to produce answers or find conclusions is called data analytics.
+
+Basics steps in data analysis:
+
+1. Data Mining - Identifying and extracting relevant data from data sources.
+2. Data Cleaning - Sizable effort including removing errors and duplicate data in preparation for analysis.
+3. Statistical Analysis - Using statistical methods and artificial intelligence to interpret results and develop insights.
+4. Data Presentation - Communicating results using a variety of techniques including visualization and data-storytelling.
+
+Data analytics has four primary types:
+-- Descriptive:  Existing data sets of historical data are accessed, and analysis is performed to determine what the data tells stakeholders about the performance of a key performance indicator (KPI) or other business objectives. It is insight on past performance.
+-- Diagnostic:  As the term suggests, this analysis tries to glean from the data the answer to why something happened. It takes descriptive analysis and looks at the cause.
+-- Predictive:  In this approach, the analyst uses techniques to determine what may occur in the future. It applies tools and techniques to historical data and trends to predict the likelihood of certain outcomes.
+-- Prescriptive:  This analysis focuses on what action should be taken. In combination with predictive analytics, prescriptive techniques provide estimates of the probabilities of a variety of future outcomes.
+
+Data Management
+Data management processes involve the collection, storage, organization, maintenance, and analytics of an organization’s data. It includes the architecture of technology systems such that data can flow across the enterprise and be accessed whenever and by whom it is approved for use. 
+
+Governing Data
+
+The success of governing data can be reduced to three essential factors:
+-- People:  While recognizing that data is increasingly created and used exclusively by machines without human intervention, handling and benefiting from data is still a highly people-centric exercise
+-- Policies:  A data policy contains a set of adopted rules by an organization that apply to the handling of data in specific conditions and for particular desired outcomes. 
+-- Metrics:  It’s largely true, what gets measured gets managed. In developing policies in support of data governance, you have to consider how each is measured. 
 
 
 
-
-
-
+# CHAPTER 4: TRANSFORMING THROUGH DATA
+whats 
 
 
 
